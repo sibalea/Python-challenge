@@ -1,3 +1,3 @@
 # Python-challenge
 Only for Python practice assignments
-My mentor @rosericazondekon is guiding me through.
+My mentor [@rosericazondekon](https://github.com/rosericazondekon) is guiding me through.
